@@ -22,7 +22,8 @@ The bar chart visualizes the sales data with categories on the Y-axis and sales 
 
 Images:-
 
-![Uploading Screenshot 2024-10-10 at 11.18.40 PM.png…]()
+<img width="1081" alt="Screenshot 2024-10-10 at 11 18 40 PM" src="https://github.com/user-attachments/assets/5e1b6032-dcca-4524-b0bf-61e474baceb1">
+
 
 
 
