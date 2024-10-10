@@ -7,12 +7,6 @@ Table of Contents
 	•	Overview
 	•	Dataset
 	•	Visualization
-	•	Issues Identified
-	•	Steps to Improve
-	•	Usage
-	•	Future Enhancements
-	•	Contributing
-	•	License
 
  Overview
 
@@ -26,11 +20,10 @@ Visualization
 
 The bar chart visualizes the sales data with categories on the Y-axis and sales amounts on the X-axis. Each bar represents the sales value for a specific category. The chart currently has some layout and readability issues, which will be addressed through visualization improvements.
 
-Issues Identified
+Images:-
 
-	•	Congested Layout: The data labels and axis values overlap, making it hard to interpret.
-	•	X-axis Clutter: The sales values are presented in a detailed format, causing the X-axis to be overcrowded.
-	•	Small Chart Size: The chart is too small to display all information clearly.
-	•	Bar Width: Bars are too close to each other, reducing readability.
+![Uploading Screenshot 2024-10-10 at 11.18.40 PM.png…]()
+
+
 
  
